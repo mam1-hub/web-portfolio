@@ -9,6 +9,7 @@ Bu, modern bir portföy sitesi. React, Three.js ve CSS animasyonları kullanıla
 
 - [Özellikler](#özellikler)
 - [Kurulum](#kurulum)
+- [Görseller](#Görseller)
 - [Kullanım](#kullanım)
 - [Teknolojiler](#teknolojiler)
 - [Katkıda Bulunma](#katkıda-bulunma)
@@ -63,6 +64,15 @@ Bu projeyi yerel ortamda çalıştırmak için şu adımları izleyin:
 
 
 Tarayıcınızda http://localhost:3000/mam1-hub adresine giderek projeyi görüntüleyebilirsiniz.
+
+
+## **Görseller**
+<details>
+ <img width="450" alt="image" src="./assets/ss1.png">
+ <img width="450" alt="image" src="./assets/ss2.png">
+ <img width="450" alt="image" src="./assets/ss3.png">
+ <img width="450" alt="image" src="./assets/ss4.png">
+</details>
 
 
 ## **Kullanım**
