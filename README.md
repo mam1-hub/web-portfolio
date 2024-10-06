@@ -68,10 +68,10 @@ Tarayıcınızda http://localhost:3000/mam1-hub adresine giderek projeyi görün
 
 ## **Görseller**
 <details>
- <img width="450" alt="image" src="./assets/ss1.png">
- <img width="450" alt="image" src="./assets/ss2.png">
- <img width="450" alt="image" src="./assets/ss3.png">
- <img width="450" alt="image" src="./assets/ss4.png">
+ <img width="450" alt="image" src="./Görseller/ss1.png">
+ <img width="450" alt="image" src="./Görseller/ss2.png">
+ <img width="450" alt="image" src="./Görseller/ss3.png">
+ <img width="450" alt="image" src="./Görseller/ss4.png">
 </details>
 
 
